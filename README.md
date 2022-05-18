@@ -1,8 +1,8 @@
 - 👋 Hi, I’m aymeric
 - 👀 I’m interested in coding Java and Kotlin
 - 🌱 I’m currently learning JavaScript, C# and C++
-- 💞️ I’m looking to collaborate on Minecraft Java projects/mods
 - 📫 How to reach me: discord aymeric🔱#6876
+- if you know you know
 
 baiters own you and know more about you then the government.
 
