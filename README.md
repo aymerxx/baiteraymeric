@@ -1,4 +1,4 @@
 - 👋 Hi, I’m aymeric
-- 👀 I’m interested in designing clothes and Webdevelopment
-- 🌱 I’m currently learning CSS, HTML, SCSS, python, discordJS, discordpy
-- 📫 How to reach me: discord aymerxx#4514
+- 👀 I’m interested in Web Development and writing game cheats
+- 🌱 I’m currently learning Assembly and reverse engineering
+- 📫 How to reach me: t.me/pythagor4s triangle.lol (discord)
